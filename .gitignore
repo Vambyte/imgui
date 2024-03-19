@@ -12,6 +12,17 @@ examples/*/Debug/*
 examples/*/Release/*
 examples/*/x64/*
 
+bin/
+bin-int/
+
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+**/*.vcxproj
+**/*.vcxproj.filters
+**/*.vcxproj.user
+
 ## Visual Studio artifacts
 .vs
 ipch
